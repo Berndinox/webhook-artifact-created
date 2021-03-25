@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # Shifter Outgoing Webhook Artifact::Created
 
 ## Netlify
